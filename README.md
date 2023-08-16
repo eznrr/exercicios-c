@@ -1,1 +1,1 @@
-# exercicios-c
+Exercício em Linguagem C.
